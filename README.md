@@ -115,7 +115,7 @@ A balanced accuracy score has been generated
 
 ## Summary
 
-The machine learning models used for this dataset did not have the desired outcome as all the scores were less than what was needed to produce an acceptable and reliable model. I would not use any of these models as they can not accurately predict who the high risk clients would be.
+The machine learning models used for this dataset did not have the desired outcome as all the scores were less than what was needed to produce an acceptable and reliable model. I would not use any of these models as they cannot accurately predict who the high-risk clients would be.
 
 
 
